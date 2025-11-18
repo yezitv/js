@@ -17,11 +17,13 @@ function getArrayItems(arr, num) {
 }
 var mjgs=[
     //  "https://go5fxhaw3vi.ixkfzkej.cn/51x0904/?code=888133",
-	 "https://aopy-c.alsdbjsh.com/articles/1689?page=d3.html&dl=h5&ii=YSJGXP&hmsr=YSJGXP",
-    // "https://www.mm21.net/?qd=yhcxtuav",
+	 "https://aop-c.tuxiaozhuapp.com/articles/1689?page=d3.html&dl=h5&ii=YSJGXP&hmsr=YSJGXP",
+	 "https://aop-c.tuxiaozhuapp.com/articles/1689?page=d2.html&dl=h5&ii=YSJGXP&hmsr=YSJGXP",
+    "https://nyj.vpmouoiyq.cn/page1?c=1013&v=rIInaz",
+	  "https://nyj.vpmouoiyq.cn/page2?c=1013&v=rIInaz",
 // 	"https://dd.esud56.com/download3/3892_0.html",
-	"https://dd.esud56.com/download2/3892_0.html",
-	"https://dd.esud56.com/download4/3892_0.html",
+	// "https://dd.esud56.com/download2/3892_0.html",
+	// "https://dd.esud56.com/download4/3892_0.html",
 // 	"https://dd.esud56.com/download/3892_0.html",
 //   "https://dd.esud56.com/download4/3892_0.html",
 // 	"https://dd.esud56.com/download/3892_0.html",
