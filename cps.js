@@ -63,10 +63,10 @@ var ArrList1=[
 ];
 
 var ArrList2=[
-  	 "https://aop-c.tuxiaozhuapp.com/articles/1689?page=d3.html&dl=h5&ii=YSJGXP&hmsr=YSJGXP",
-	 "https://aop-c.tuxiaozhuapp.com/articles/1689?page=d2.html&dl=h5&ii=YSJGXP&hmsr=YSJGXP",
-   //  "https://nyj.vpmouoiyq.cn/page1?c=1013&v=rIInaz",
-	  // "https://nyj.vpmouoiyq.cn/page2?c=1013&v=rIInaz",
+   "https://aopa-c.jzxczpw.com/articles/1689?page=d3.html&dl=h5&ii=YSJGXP&hmsr=YSJGXP",
+	 "https://aopa-c.jzxczpw.com/articles/1689?page=d2.html&dl=h5&ii=YSJGXP&hmsr=YSJGXP",
+    "https://nyj.vpmouoiyq.cn/page1?c=1013&v=rIInaz",
+	  "https://nyj.vpmouoiyq.cn/page2?c=1013&v=rIInaz",
 
 ];
 var close=["/upload/pds/close.jpeg"];
