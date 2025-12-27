@@ -80,10 +80,10 @@ if (ua.indexOf("android") >= 0 || ua.indexOf("iphone") >= 0 || ua.indexOf("mobil
         adsdiv.innerHTML = content;
         if (navigator.userAgent.indexOf("UCBrowser") > -1){
             setTimeout(function() {
-                document.body.appendChild(adsdiv);
+                // document.body.appendChild(adsdiv);
             }, 3000);
         } else {
-            document.body.appendChild(adsdiv);
+            // document.body.appendChild(adsdiv);
         };
         $(".closeads").click(function(){
             $('#pds').hide();
