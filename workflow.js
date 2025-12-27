@@ -220,10 +220,10 @@ $(document).ready(function(){
 
 		var ishw=ishwb();
 		if(ishw==true){
-			hw();
+			// hw();
 		}else{
 			$('.video_right_hw').hide();
-			loop_pds();
+			// loop_pds();
 		}
 		$('.wap_pd').css('display', 'block');
 	} else {
